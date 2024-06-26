@@ -1,6 +1,12 @@
 # README.md i guess
 ## About
 idk
+## Might be ok at
+* JavaScript
+* Lua
+  * Luau (Roblox)
+* HTML\*
+* Python
 ## Languages
 * English (preferred)
 * Chinese

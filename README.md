@@ -2,10 +2,12 @@
 ## About
 idk
 ## Languages
-* English
-* Mandarin/Putonghua
-* Cantonese (native)
-* Portuguese\*
+* English (preferred)
+* Chinese
+  * (Traditional Chinese preferred)
+  * Mandarin/Putonghua
+  * Cantonese (native)
+* Portuguese
 ## Pronouns
 >"Pronouns? They're going woke. They're going woke." - Someone, 2024
 * he/him (preferred)

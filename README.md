@@ -2,11 +2,12 @@
 ## About
 idk
 ## Might be ok at
-* JavaScript
+* HTML\*
 * Lua
   * Luau (Roblox)
-* HTML\*
 * Python
+* JavaScript
+  * TypeScript
 ## Languages
 * English (preferred)
 * Chinese

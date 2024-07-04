@@ -1,8 +1,8 @@
 # README.md i guess
 ## About
 idk
-## Might be ok at
-* HTML\*
+## Not even remotely ok at
+* HTML
 * Lua
   * Luau (Roblox)
 * Python

@@ -14,7 +14,9 @@ idk
   * (Traditional Chinese preferred)
   * Mandarin/Putonghua
   * Cantonese (native)
-* Portuguese
+* Portuguese\*
+  * (Brazilian Portuguese preferred)
+* toki pona\*
 ## Pronouns
 >"Pronouns? They're going woke. They're going woke." - Someone, 2024
 * he/him (preferred)

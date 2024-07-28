@@ -2,7 +2,7 @@
 ## About
 idk
 
-[wip website](https://www.fishlandicfishy.github.io)
+[wip website](https://fishlandicfishy.github.io)
 
 ## Not even remotely ok at
 * HTML

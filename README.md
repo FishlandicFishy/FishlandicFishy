@@ -1,6 +1,9 @@
 # README.md i guess
 ## About
 idk
+
+[wip](fishlandicfishy.github.io)
+
 ## Not even remotely ok at
 * HTML
 * Lua

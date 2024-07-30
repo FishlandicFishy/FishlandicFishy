@@ -1,4 +1,7 @@
 # README.md i guess
+## Important Notice
+I understand that my email address is easily accessible through the usage of `.patch`, but please do not abuse it. My email address will not be put in my profile as a result.
+
 ## About
 idk
 

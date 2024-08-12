@@ -6,7 +6,7 @@
             font-size: 20px;
             dominant-baseline: middle;
             text-anchor: middle;
-            animation: fadeIn 1s forwards, expandFade 4s 1s forwards;
+            animation: fadeIn 4s forwards, expandFade 1s 1s forwards;
         }
         @keyframes fadeIn {
             from { opacity: 0; }

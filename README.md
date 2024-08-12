@@ -1,6 +1,10 @@
 # README.md i guess
 
 ## About
+
+![🦊 Como as lendas dizem, o meu guitarrista é furry. 🦊](quote.svg)
+*\- someone*
+
 idk
 
 [wip website](https://fishlandicfishy.github.io)

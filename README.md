@@ -4,9 +4,7 @@
 
 ![🦊 Como as lendas dizem, o meu guitarrista é furry. 🦊](quote.svg)
 
-"meu guitarrista é furry"
-
-*\- someone*
+>"meu guitarrista é furry" - someone
 
 idk
 

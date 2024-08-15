@@ -4,7 +4,7 @@
 
 ![🦊 Como as lendas dizem, o meu guitarrista é furry. 🦊](quote.svg)
 
->"meu guitarrista é furry" - someone
+> "meu guitarrista é furry" - someone, 2024
 
 idk
 
@@ -27,7 +27,7 @@ idk
   * (Brazilian Portuguese preferred)
 * toki pona\*
 ## Pronouns
->"Pronouns? They're going woke. They're going woke." - Someone, 2024
+> "Pronouns? They're going woke. They're going woke." - someone, 2024
 * he/him (preferred)
 * they/them (ok)
 <!---

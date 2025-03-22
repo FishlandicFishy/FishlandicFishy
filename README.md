@@ -25,6 +25,7 @@ idk
   * Cantonese (native)
 * Portuguese\*
   * (Brazilian Portuguese preferred)
+* Japanese\*\* (not really that great)
 * toki pona\*
 ## Pronouns
 > "Pronouns? They're going woke. They're going woke." - someone, 2024
